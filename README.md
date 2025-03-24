@@ -1,2 +1,2 @@
-# scicraft
+# SciCraft
 Data Wrangling Scripts
