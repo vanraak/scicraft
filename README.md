@@ -1,6 +1,6 @@
-# Time Shift
+# SciCraft
+Simplifying Data Science with Python
 
-A simple Python utility to create lagged and lead variables for panel or time series data.
 
 ## Installation
 
@@ -10,6 +10,7 @@ pip install scicraft
 
 ## Usage
 
+A simple Python utility to create lagged and lead variables for panel or time series data.
 ### Time_shift:
 
 ```python
